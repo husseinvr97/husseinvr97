@@ -54,5 +54,4 @@ Tools          Git · Open Source Development
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hussein--mustafa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hussein-mustafa-8174b4369/)
-[![GitHub](https://img.shields.io/badge/GitHub-husseinvr97-181717?style=flat&logo=github)](https://github.com/husseinvr97)
 [![Email](https://img.shields.io/badge/Email-husseinmustafabas05@gmail.com-D14836?style=flat&logo=gmail)](mailto:husseinmustafabas05@gmail.com)
