@@ -25,6 +25,13 @@ Implemented the fix across 11 files, bringing WebFlux to full parity with the se
 
 ---
 
+#### Spring Boot — Contributor
+Built on the Spring Framework contribution by exposing `spring.webflux.default-html-escape` as a property in Spring Boot, allowing WebFlux applications to configure HTML escaping globally via `application.properties` — giving WebFlux the same property-based experience Spring MVC has always had.
+
+Shipped in **Spring Boot 4.1.x**.
+
+→ [Pull Request #49791](https://github.com/spring-projects/spring-boot/pull/49791)
+
 ## Projects
 
 #### Plugin Discovery System
